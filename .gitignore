@@ -1,0 +1,9 @@
+
+# Ignore Visual Studio  Project #
+###################
+*.user
+*.gpState
+*.suo
+bin*
+obj*
+packages/
